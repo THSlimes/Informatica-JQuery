@@ -1,0 +1,13 @@
+Thema 1:
+	Kersrood: #f20732
+	Donkerblauw: #07038c
+	Lichtblauw: #0439d9
+	Lichterblauw: #056cf2
+	Neonrood: #f20505
+
+Thema 2:
+	Pasteloranje: #FB7963
+	Donkerpasteloranje: #D24B47
+	Lichtpaars: #A92C49
+	Paars: #5B2055
+	Donkerpaars: #2F163B
